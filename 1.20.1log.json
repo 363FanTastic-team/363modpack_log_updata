@@ -1,39 +1,23 @@
 {
-  "footer": "Example",
+  "footer": "版本初始预览",
   "entries": [
-
-
-    {        删：单个版本板块模板
-      "version": "1.0.0",      
-      "date": "2026-02-12",
-      "title": "Example",
-      "type": ["major","minor","patch","hotfix","danger"],
-      "tags": ["Example", "Example"],
-      "color": "0xFFFFFF00",
-      "changes": [
-        "Example",
-        "Example"
-      ]
-    },        删：如果多个版本日志，这里要加逗号
-
-
-
     {
-      "version": "2.0.0",
-      "date": "2026-02-12",
-      "title": "Example",
-      "type": ["major","minor","patch","hotfix","danger"],
-      "tags": ["Example", "Example"],
-      "color": "0x0000FF00",
+      "version": "0.0.1",
+      "date": "2026-03-25",
+      "title": "项目初始化",
+      "type": [
+        "minor"
+      ],
+      "tags": [
+        "初始创建"
+      ],
+      "color": "0xFF55FF55",
       "changes": [
-        "Example",
-        "Example"
+        "创建的第一个版本进行测试"
       ]
     }
-
-
-
   ],
   "tagColors": {
-  "Example": "#5555FF"}
+    "初始创建": "#55FF55"
+  }
 }
