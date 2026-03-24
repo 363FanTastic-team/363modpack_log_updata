@@ -1,0 +1,21 @@
+{
+  "footer": "Example",
+  "entries": [
+
+
+    {
+      "version": "0.0.1",      
+      "date": "2026-03-25",
+      "title": "Example",
+      "type": ["major"],
+      "tags": ["第一个版本"],
+      "color": "0xFFFFFF00",
+      "changes": [
+        "初始创建测试"
+      ]
+    },
+
+  ],
+  "tagColors": {
+  "Example": "#5555FF"}
+}
