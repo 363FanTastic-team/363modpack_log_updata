@@ -1,12 +1,12 @@
 {
-  "footer": "Example",
+  "footer": "Example",     删：窗口下彩色小字
   "entries": [
 
 
     {        删：单个版本板块模板
-      "version": "1.0.0",      
-      "date": "2026-02-12",
-      "title": "Example",
+      "version": "1.0.0",      删：版本号
+      "date": "2026-02-12",     删：更新日期
+      "title": "Example",      删：版本标题
       "type": ["major","minor","patch","hotfix","danger"],
       "tags": ["Example", "Example"],
       "color": "0xFFFFFF00",
